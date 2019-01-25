@@ -1,0 +1,20 @@
+h2{
+	color:#02afeb;
+}
+body {
+    text-align: center;
+    background:url("https://media.giphy.com/media/lfxm47k9RPM0E/source.gif");
+}
+#score
+{
+	text-align: left;
+	color:#bf12bb;
+}
+#life
+{
+	
+	color:#bf43eb;
+}
+h3{
+	color:#bbccee;
+}
